@@ -1,0 +1,114 @@
+.test{
+    width: 100%;
+    min-height: 90vh;
+    max-width: 600px;
+}
+.test-box{
+    width: 90%;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: var(--border-radius);
+    background-color: #fff;
+}
+.test-box h1{
+    font-size: 2rem;
+    padding: 1rem;
+}
+.check-variants{
+    padding: 1rem;
+    display: grid;
+    grid-template-columns: 49% 49%;
+    gap: 1rem;
+}
+.check-variants > button{
+    padding: .7rem;
+    background-color: #fff;
+    border: 1px solid black;
+    font-size: 1.2rem;
+    border-radius: var(--border-radius);
+
+}
+.check-variants > button.active{
+    background-color: #52D3E5;
+    color: #fff;
+}
+.btn-send{
+    float: right;
+    margin: 1rem;
+    padding: .7rem;
+    border: 1px solid black;
+    background-color: #fff;
+    border-radius: var(--border-radius);
+    font-size: 1.2rem;
+    background-color: #52DD71;
+    transition: .5s;
+}
+
+.btn-send:focus{
+    box-shadow: none;
+}
+.card-box{
+    margin-top: 50px;
+    min-height: 85vh;
+    width: 90%;
+    max-width: 600px;
+}
+.card-box > .test-card{
+    margin: 15px 0;
+    width: 90%;
+    height: 25%;
+    max-height: 150px;
+    padding: 1rem;
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid black;
+    border-radius: var(--border-radius);
+}
+.test-card.one{
+    background-color: #a2d2ff;
+}
+.test-card.two{
+    background-color: #f4d35e;
+}
+.test-card.three{
+    background-color: #e0aaff;
+}
+.card-img-box{
+    width: 40%;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: var(--border-radius);
+    background-color: #fff;
+}
+.card-img-box > img{
+    width: 100%;
+}
+
+.card-title{
+    width: 50%;
+    text-align: center;
+    font-size: var(--katta-size);
+    margin: 0.5rem;
+}
+.card-title > button{
+    padding: .7rem 3rem;
+}
+.card-title > button:hover{
+    cursor: pointer;
+}
+
+.quest-title{
+    font-size: 1.5rem;
+    font-weight: 400;
+}
+.formula{
+    font-size: 1.7rem;
+}
+.varinat-button{
+    font-size: 1rem;
+}
+.quest-box{
+    padding: .7rem;
+}

@@ -1,0 +1,642 @@
+[
+    {
+        "savol" : "Teхnologiya — ?",
+        "variantlar":[
+            {"variant":"bu sun’iy ob’ektlarni yaratishga yo’naltirilgan jarayonlarni boshqarishdir.","num" :1 ,"isCorrect": true},
+            {"variant":"bu boshqarishga qaratilgan tizmdir.","num" :2 ,"isCorrect": false},
+            {"variant":"bu ob’ektlarni loyhalashga qaratilgan boshqarishdir.","num" :3 ,"isCorrect": false},
+            {"variant":"bu ishlab chiqarishda dasturlashdir.","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : "AKTni davlat boshqaruv organlariga joriy etish darajasida- idora ichida qog’ozsiz hujjat almashish ulushi  necha  foizni tashkil etadi?",
+        "variantlar":[
+            {"variant":"75 % ni","num" :1 ,"isCorrect": true},
+            {"variant":"25 % ni","num" :2 ,"isCorrect": false},
+            {"variant":"45 % ni","num" :3 ,"isCorrect": false},
+            {"variant":"55 % ni","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : "О’zbekiston Respublikasi хukumat portalini ko’rsating?",
+        "variantlar":[
+            {"variant":"www.gov.uz","num" :1 ,"isCorrect": true},
+            {"variant":"www.uzngi.uz","num" :2 ,"isCorrect": false},
+            {"variant":"www.uzaart.uz","num" :3 ,"isCorrect": false},
+            {"variant":"www.aci.uz","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : "Elektron raqamli imzo vositalaridan foydalangan holda хosil qilingan, faqat imzo qо’yuvchi shaхsning о’ziga ma’lum bо’lgan va elektron hujjatda elektron raqamli imzoni yaratish uchun mо’ljallangan belgilar ketma-ketligi nima deb ataladi?",
+        "variantlar":[
+            {"variant":" Elektron raqamli imzoning yopiq kaliti","num" :1 ,"isCorrect": true},
+            {"variant":"Elektron raqamli imzoning ochiq kaliti","num" :2 ,"isCorrect": false},
+            {"variant":"Elektron raqamli imzo","num" :3 ,"isCorrect": false},
+            {"variant":"Elektron raqamli imzoning nusxasi","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : "Ахborot teхnologiyasining ekspert tizimida foydalaniladigan asosiy komponentlari (tarkibiy qismlari) ko’rsatilgan javobni toping?",
+        "variantlar":[
+            {"variant":"Foydalanuvchining interfeysi, bilimlar bazasi, interpretetor, tizimni yaratish moduli.","num" :1 ,"isCorrect": true},
+            {"variant":" Bilimlar bazasi, interpretetor, tizimni yaratish moduli","num" :2 ,"isCorrect": false},
+            {"variant":"Foydalanuvchining interfeysi, tizimni yaratish moduli","num" :3 ,"isCorrect": false},
+            {"variant":"Bilimlar bazasi, tizimni yaratish moduli","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : "Intellektuаl ахbоrоt teхnоlоgiyаlаri (IАT) –?",
+        "variantlar":[
+            {"variant":"bu siyоsiy, iqtisоdiy, ijtimоiy vа teхnik vаziyаtlаrni tаhlil qilishdа hаmdа bоshqаruv yechimlаrini sintez qilishni tezlаshtirishdа insоngа yоrdаmlаshuvchi ахbоrоt teхnоlоgiyаlаridir.","num" :1 ,"isCorrect": true},
+            {"variant":"bu qоidаlаr tо'plаmini (ierаrхiyаsini) yаrаtishgа хizmаt qilаdi","num" :2 ,"isCorrect": false},
+            {"variant":"аlgоritmik dаsturlаsh tillаridаn fоydаlаnish vа ekspert tizimlаrining qоbig'idаn fоydаlаnish","num" :3 ,"isCorrect": false},
+            {"variant":"teхnik vаziyаtlаrni tаhlil qilishdа, tezlаshtirishdа zarur bo’lgan dasturlar to’plami","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : "Ахborot teхnologiyasining ekspert tizimida foydalaniladigan asosiy komponentlarini (tarkibiy qismlari) ko’rsating",
+        "variantlar":[
+            {"variant":"foydalanuvchining interfeysi, bilimlar bazasi, interpretetor, tizimni yaratish moduli","num" :1 ,"isCorrect": true},
+            {"variant":"foydalanuvchining interfeysi, interpretetor","num" :2 ,"isCorrect": false},
+            {"variant":"bilimlar bazasi, tizimni yaratish moduli","num" :3 ,"isCorrect": false},
+            {"variant":"foydalanuvchining interfeysi, bilimlar bazasi, tizimni yaratish","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : "C++ dasturlash tili qachon va kim tomonidan yaratilgan?",
+        "variantlar":[
+            {"variant":"1980 yilda Bjarne Stroustrup","num" :1 ,"isCorrect": true},
+            {"variant":"1990 yilda Ken Thompson","num" :2 ,"isCorrect": false},
+            {"variant":"1972 yilda Bell Laboratoriyasida","num" :3 ,"isCorrect": false},
+            {"variant":"1967 yilda Martin Richards","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : "C++ ning ob`ektga mo’ljallangan dasturlash tili qaysi javobda to’g’ri keltirilgan?",
+        "variantlar":[
+            {"variant":"Borland Builder C++","num" :1 ,"isCorrect": true},
+            {"variant":"Borland Delphi C++","num" :2 ,"isCorrect": false},
+            {"variant":"Dev C++ ","num" :3 ,"isCorrect": false},
+            {"variant":"HTML","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : "C++ dasturlash tili yordamida dastur tuzishda rus alifbosidan foydalanishga ruxsat etiladimi?",
+        "variantlar":[
+            {"variant":"Ruxsat etiladi","num" :1 ,"isCorrect": true},
+            {"variant":"Ruxsat etiladi","num" :2 ,"isCorrect": false},
+            {"variant":"C++ dasturlash tili ingliz alifbosiga mo’ljallangan","num" :3 ,"isCorrect": false},
+            {"variant":"Faqat sonlar va formulalarga mo’ljallangan","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : "C++ dasturlash tilining alfaviti deganda nimani tushunasiz?",
+        "variantlar":[
+            {"variant":"Sonlar, harflar va belgilar","num" :1 ,"isCorrect": true},
+            {"variant":"Faqat harflar","num" :2 ,"isCorrect": false},
+            {"variant":"Faqat ­arab sonlari","num" :3 ,"isCorrect": false},
+            {"variant":"Faqat buyruqdagi belgilar","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : "Identifikator nima?",
+        "variantlar":[
+            {"variant":"Identifikator bu – dastur ob`yektining nomi","num" :1 ,"isCorrect": true},
+            {"variant":"Identifikator bu – kodlashtirish ","num" :2 ,"isCorrect": false},
+            {"variant":"Identifikator bu – tagiga chiziq qo’yilgan sonlar","num" :3 ,"isCorrect": false},
+            {"variant":"Identifikator bu – dasturning xatoligini topish","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : "Algoritmlarning qanday turlari mavjud?",
+        "variantlar":[
+            {"variant":"Chiziqli, tarmoqlanuvchi va takrorlanuvchi","num" :1 ,"isCorrect": true},
+            {"variant":"Tarmoqlanuvchi, kesishuvchi va bo’lingan","num" :2 ,"isCorrect": false},
+            {"variant":"Bog’langan, siklik va uzluksiz","num" :3 ,"isCorrect": false},
+            {"variant":"Turlari yuzdan oshiq","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : "C++ dasturlash tili qaysi dasturlash tiliga asoslanib yaratilgan",
+        "variantlar":[
+            {"variant":"C dasturlash tiliga","num" :1 ,"isCorrect": true},
+            {"variant":"C# dasturlash tiliga","num" :2 ,"isCorrect": false},
+            {"variant":"Delphi dasturlash tiliga","num" :3 ,"isCorrect": false},
+            {"variant":"HTML dasturlash tiliga","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : "C++ ning standart kutubxonasi nima vazifalarni bajaradi",
+        "variantlar":[
+            {"variant":"C++ ning tayyor ob`ekt va funksiyalaridan foydalanish","num" :1 ,"isCorrect": true},
+            {"variant":"C++ da ob`ektlar joylashtirish","num" :2 ,"isCorrect": false},
+            {"variant":"C++ da funksiyalar o’rnatish","num" :3 ,"isCorrect": false},
+            {"variant":"C++ da formulalar qo’yish","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : "Kompilyator - bu:",
+        "variantlar":[
+            {"variant":"Foydalanuvchining dasturini mashina tiliga o‘girib beruvchi qurilma","num" :1 ,"isCorrect": true},
+            {"variant":"Kiritilgan dastur matnini to‘lig‘icha mashina tiliga o‘giruvchi translyator","num" :2 ,"isCorrect": false},
+            {"variant":"Kiritilgan dasturni qismlari bo‘yicha mashina tiliga o‘giruvchi translyator","num" :3 ,"isCorrect": false},
+            {"variant":"Kiritilgan dasturning ayrim qismlaridan boshqa dastur tuzuvchi translyator","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : " C++ dasturlash tilida natijani ekranga chiqaruvchi buyruq qaysi?",
+        "variantlar":[
+            {"variant":"cout","num" :1 ,"isCorrect": true},
+            {"variant":"cin","num" :2 ,"isCorrect": false},
+            {"variant":"main","num" :3 ,"isCorrect": false},
+            {"variant":"include","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : "C++ dasturlash tilida o’zgaruvchilarning qiymatlarini kirituvchi buyruq qaysi?",
+        "variantlar":[
+            {"variant":"cin","num" :1 ,"isCorrect": true},
+            {"variant":"cout","num" :2 ,"isCorrect": false},
+            {"variant":"main","num" :3 ,"isCorrect": false},
+            {"variant":"include","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : "C++ dasturlash tilida o’zgarmas kattaliklar qanday turlarga bo’linadi?",
+        "variantlar":[
+            {"variant":"mantiqiy, butun, haqiqiy, belgili, satrli","num" :1 ,"isCorrect": true},
+            {"variant":"Ratsional va butun","num" :2 ,"isCorrect": false},
+            {"variant":"Mantiqiy va matritsali","num" :3 ,"isCorrect": false},
+            {"variant":"Formulalar va buyruqlar","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : "Dasturda faqat butun sonli o’zgarmaslardan foydalanilsa qaysi ma`lumot tipidan foydalaniladi?",
+        "variantlar":[
+            {"variant":"Int","num" :1 ,"isCorrect": true},
+            {"variant":"Float","num" :2 ,"isCorrect": false},
+            {"variant":"String","num" :3 ,"isCorrect": false},
+            {"variant":"Main","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : "Dasturda faqat haqiqiy sonli o’zgarmaslardan foydalanilsa qaysi ma`lumot tipidan foydalaniladi?",
+        "variantlar":[
+            {"variant":"Float","num" :1 ,"isCorrect": true},
+            {"variant":"Int","num" :2 ,"isCorrect": false},
+            {"variant":"String","num" :3 ,"isCorrect": false},
+            {"variant":"Main","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : "C++ da sonni darajaga ko’tarish amali qanday yoziladi",
+        "variantlar":[
+            {"variant":"pow(a,3)","num" :1 ,"isCorrect": true},
+            {"variant":"sqrt(a,3)","num" :2 ,"isCorrect": false},
+            {"variant":"a sonning (kubi)","num" :3 ,"isCorrect": false},
+            {"variant":"a sonning (kvadrati)","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : "C++ dasturlash tilining mantiqiy operatori qaysi?",
+        "variantlar":[
+            {"variant":"if","num" :1 ,"isCorrect": true},
+            {"variant":"main","num" :2 ,"isCorrect": false},
+            {"variant":"return","num" :3 ,"isCorrect": false},
+            {"variant":"for","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : "C++ dasturlash tilining siklik operatori qaysi javobda to’g’ri keltirilgan?",
+        "variantlar":[
+            {"variant":"for","num" :1 ,"isCorrect": true},
+            {"variant":"if","num" :2 ,"isCorrect": false},
+            {"variant":"true","num" :3 ,"isCorrect": false},
+            {"variant":"main","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : "break operatorining vazifasi nima?",
+        "variantlar":[
+            {"variant":"Takrorlash bajarilishini ixtiyoriy joyda to`xtatish","num" :1 ,"isCorrect": true},
+            {"variant":"Takrorlanishni davo ettirish","num" :2 ,"isCorrect": false},
+            {"variant":"Qiymat berish operatori","num" :3 ,"isCorrect": false},
+            {"variant":"Sonlarni tartibga solish operatoti","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : "Quyidagilardan C++ ning tanlash operartorini belgilang",
+        "variantlar":[
+            {"variant":"case","num" :1 ,"isCorrect": true},
+            {"variant":"for","num" :2 ,"isCorrect": false},
+            {"variant":"else","num" :3 ,"isCorrect": false},
+            {"variant":"pow","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : "summa:=sqr(x)+3*a amalida qanday o‘zgaruvchilar ishtirok etgan?",
+        "variantlar":[
+            {"variant":"a, x, summa","num" :1 ,"isCorrect": true},
+            {"variant":"x, a","num" :2 ,"isCorrect": false},
+            {"variant":"sqr, x, a","num" :3 ,"isCorrect": false},
+            {"variant":"summa, sqr, x, a","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : "MathCAD dasturida  dasturlash panеlidagi  If opеratori  qanday vazifani bajaradi:",
+        "variantlar":[
+            {"variant":"shartli opеrator vazifasini bajaradi","num" :1 ,"isCorrect": true},
+            {"variant":"o`zgartirish opеratori","num" :2 ,"isCorrect": false},
+            {"variant":"to`xtatish opеratori","num" :3 ,"isCorrect": false},
+            {"variant":"qo‟shimcha tanlash  opеratori","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : "MathCAD dasturida  dasturlash panеlidagi  Otherwise opеratori  qanday vazifani bajaradi:",
+        "variantlar":[
+            {"variant":"qo`shimcha tanlash (shartli opеrator bilan birgalikda qo‟llaniladi) opеrator vazifasini bajaradi","num" :1 ,"isCorrect": true},
+            {"variant":"o`zgartirish opеratori","num" :2 ,"isCorrect": false},
+            {"variant":"to`xtatish opеratori","num" :3 ,"isCorrect": false},
+            {"variant":"takrorlanuvchi opеratori","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : "MathCAD dasturida  dasturlash panеlidagi  For opеratori  qanday vazifani bajaradi:",
+        "variantlar":[
+            {"variant":"takrorlanuvchi opеrator vazifasini bajaradi","num" :1 ,"isCorrect": true},
+            {"variant":"o`zgartirish opеratori","num" :2 ,"isCorrect": false},
+            {"variant":"to`xtatish opеratori","num" :3 ,"isCorrect": false},
+            {"variant":"takrorlanuvchi opеratori","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : "MathCAD dasturida  mantiqiy ifodalar va ular yordamidagi arifmеtik amallarni bajarish uchun qaysi panеldan foydalaniladi",
+        "variantlar":[
+            {"variant":"boolean (логический) panеlidan foydalaniladi","num" :1 ,"isCorrect": true},
+            {"variant":"kalkulyator bo’limi panеlidan foydalaniladi","num" :2 ,"isCorrect": false},
+            {"variant":"xisob kitoblarni bajaradigan panеldan foydalaniladi","num" :3 ,"isCorrect": false},
+            {"variant":"hamma javoblar to’g’ri","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : "MathCAD dasturida  Matrix (Матрица) panеlini ishga tushirish uchun qaysi panеldan foydalaniladi",
+        "variantlar":[
+            {"variant":"Математика panеlidan  foydalaniladi","num" :1 ,"isCorrect": true},
+            {"variant":"Kalkulyator bo’limi panеlidan foydalaniladi","num" :2 ,"isCorrect": false},
+            {"variant":"Xisob kitoblarni bajaradigan panеldan foydalaniladi","num" :3 ,"isCorrect": false},
+            {"variant":"Hamma javoblar to’g’ri","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : "Hisoblash texnikasini  amaliyotda samarali tadbiq etishning shartlaridan biri….",
+        "variantlar":[
+            {"variant":"amaliy dasturlarning ixtisoslashtirilgan paketlarini yaratiashdir","num" :1 ,"isCorrect": true},
+            {"variant":"elektron xisoblash mashinalarini yaratishdir","num" :2 ,"isCorrect": false},
+            {"variant":"shaxsiy kompyuterlardan unumli foydalanishdir","num" :3 ,"isCorrect": false},
+            {"variant":"hamma javoblar to’g’ri","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : "Matnli protsessorlar….",
+        "variantlar":[
+            {"variant":"MS WORD, AmiPro","num" :1 ,"isCorrect": true},
+            {"variant":"Corel Draw, Adobe Photoshop","num" :2 ,"isCorrect": false},
+            {"variant":"MS Excel, Microsoft  Access","num" :3 ,"isCorrect": false},
+            {"variant":"Power Point, Picture Publisher","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : "MS Word dasturi vazifasi buyicha qanday dastur xisoblanadi?",
+        "variantlar":[
+            {"variant":"Matn muxarriri","num" :1 ,"isCorrect": true},
+            {"variant":"Excel","num" :2 ,"isCorrect": false},
+            {"variant":"grafik muxarriri ","num" :3 ,"isCorrect": false},
+            {"variant":"point protsessori","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : "Excel dasturida yacheykadagi ### belgi nimani bildiradi? ",
+        "variantlar":[
+            {"variant":"Raqamning yacheykaga sig’maganligini","num" :1 ,"isCorrect": true},
+            {"variant":"Nom noto’g’ri ko’rsatilganligini","num" :2 ,"isCorrect": false},
+            {"variant":"Yacheyka formati oddiy matnda ekanligini","num" :3 ,"isCorrect": false},
+            {"variant":"Yacheyka adresi noto’g’ri ko’rsatilganligini","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : "Microsoft Office EXCEL dasturiy muhitida yacheykani ichida keyingi satrga o’tish uchun qaysi tugma yoki tugmalar birgalikda bosiladi?",
+        "variantlar":[
+            {"variant":"ENTER","num" :1 ,"isCorrect": true},
+            {"variant":"CTRL+ENTER","num" :2 ,"isCorrect": false},
+            {"variant":"ALT+ENTER","num" :3 ,"isCorrect": false},
+            {"variant":"SHIFT+ENTER","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : "Yacheykadagi sonli qiymatlarni, matnlarni yoki formulalarni o’chirish uchun qaysi amallarni bajarish kerak?",
+        "variantlar":[
+            {"variant":"Yacheykani faollashtirib, DELETE tugmasini bosish kerak bo’ladi","num" :1 ,"isCorrect": false},
+            {"variant":"Yacheykani faollashtirib, ENTER tugmasini bosish kerak bo’ladi","num" :2 ,"isCorrect": false},
+            {"variant":"Yacheykani faollashtirib, BACKCASE tugmasini bosish kerak bo’ladi","num" :3 ,"isCorrect": false},
+            {"variant":"To’g’ri javob A va C","num" :4 ,"isCorrect": true}
+        ]
+    },
+    {
+        "savol" : "Yacheykadagi ma’lumotlarni tahrirlash uchun qaysi tugmani bosish kerak?",
+        "variantlar":[
+            {"variant":"F2 ","num" :1 ,"isCorrect": true},
+            {"variant":"F7","num" :2 ,"isCorrect": false},
+            {"variant":"F11","num" :3 ,"isCorrect": false},
+            {"variant":"F12","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : ". . ... elektron jadvalllar oddiy matn muharririga aylanib qoladi. Jumlani to’ldiring.",
+        "variantlar":[
+            {"variant":"Formulalarsiz","num" :1 ,"isCorrect": true},
+            {"variant":"Sonlarsiz","num" :2 ,"isCorrect": false},
+            {"variant":"Diagrammalarsiz","num" :3 ,"isCorrect": false},
+            {"variant":"Grafiklarsiz","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : "Excel dasturida formula yozish qaysi belgidan boshlanadi?",
+        "variantlar":[
+            {"variant":"=","num" :1 ,"isCorrect": true},
+            {"variant":"-","num" :2 ,"isCorrect": false},
+            {"variant":"%","num" :3 ,"isCorrect": false},
+            {"variant":"!=","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : "Diagramma deb nimaga aytiladi?",
+        "variantlar":[
+            {"variant":"Diagramma deb elektron jadvalning ajralmas qismi bo’lgan grafikka aytiladi","num" :1 ,"isCorrect": false},
+            {"variant":"Diagramma deb sonli jadval ko’rinishida berilgan axborotlarni ko’rgazmali namoyish etish usuliga aytiladi","num" :2 ,"isCorrect": false},
+            {"variant":"Diagramma deb oddiy grafikka aytiladi","num" :3 ,"isCorrect": false},
+            {"variant":"To’g’ri javob A va V","num" :4 ,"isCorrect": true}
+        ]
+    },
+    {
+        "savol" : "Excelda jadvalga qanday turdagi ma’lumotlar kiritiladi?",
+        "variantlar":[
+            {"variant":"Matnli, sonli va formula","num" :1 ,"isCorrect": true},
+            {"variant":"Faqat formula","num" :2 ,"isCorrect": false},
+            {"variant":"Sonli va formula","num" :3 ,"isCorrect": false},
+            {"variant":"Matnli, sonli","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : "Excel dasturida formula bajarilish natijasida “#ЗНАЧ” xatoligi sodir bo’lsa, bu xatolik turini aniqlang? ",
+        "variantlar":[
+            {"variant":"Yacheyka nomeri noto’g’ri ko’rsatilgan","num" :1 ,"isCorrect": true},
+            {"variant":"Nolga bo’lish sodir bo’lgan","num" :2 ,"isCorrect": false},
+            {"variant":"Argument sifatida sonning o’rnida matn turibdi","num" :3 ,"isCorrect": false},
+            {"variant":"Kvadrat ildiz ostida manfiy son hosil bo’lgan","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : "Excel dasturida formula bajarilish natijasida “#Ссылка” xatoligi sodir bo’lsa, bu xatolik turini aniqlang?",
+        "variantlar":[
+            {"variant":"Yacheyka nomeri noto’g’ri ","num" :1 ,"isCorrect": true},
+            {"variant":"Argument sifatida sonning o’rnida matn turibdi","num" :2 ,"isCorrect": false},
+            {"variant":"Formulada ishlatilayotgan yacheykadagi ma’lumot o’chirilgan","num" :3 ,"isCorrect": false},
+            {"variant":"Nolga bo’lish sodir bo’lgan","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : "Ma`lumotlar bazasini boshqarish tizimlari …",
+        "variantlar":[
+            {"variant":"Microsoft  Access, dBase","num" :1 ,"isCorrect": true},
+            {"variant":"MS WORD, AmiPro","num" :2 ,"isCorrect": false},
+            {"variant":"MS Excel, Microsoft  Access","num" :3 ,"isCorrect": false},
+            {"variant":"Adobe Photoshop,  Corel Ventura","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : "Modul–",
+        "variantlar":[
+            {"variant":"kamida bitta operatordan iborat dastur","num" :1 ,"isCorrect": true},
+            {"variant":"dasturlar jamlanmasi","num" :2 ,"isCorrect": false},
+            {"variant":"operatorlar","num" :3 ,"isCorrect": false},
+            {"variant":"hamma javoblar to’g’ri","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : "Matеmatik modеl–",
+        "variantlar":[
+            {"variant":"jarayonni matematik munosabatlar yoki tenglanalar bilan tasvirlangan ifodasi","num" :1 ,"isCorrect": true},
+            {"variant":"buyruqlar ketma-ketligi","num" :2 ,"isCorrect": false},
+            {"variant":"blok sxemalar majmuasi","num" :3 ,"isCorrect": false},
+            {"variant":"hamma javoblar to’g’ri","num" :4 ,"isCorrect": false}
+        ]
+    }
+    ,
+    {
+        "savol" : "Matlab–",
+        "variantlar":[
+            {"variant":"matеmatik hisoblashlarni matrisaviy opеrasiyalarga asoslangan holda avtomatlashtirish","num" :1 ,"isCorrect": true},
+            {"variant":"matеmatik  hisob-kitob  ishlarini bajarishga  mo`ljallangan","num" :2 ,"isCorrect": false},
+            {"variant":"muhandislik-masalalarini yechishga  mo`ljallangan","num" :3 ,"isCorrect": false},
+            {"variant":"dasturlash tilida tuzilgan blok-sxema","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : "MathCAD –",
+        "variantlar":[
+            {"variant":"kompyutеr matеmatika sistеmasi","num" :1 ,"isCorrect": true},
+            {"variant":"faqat matеmatik  hisob-kitob  ishlarini bajarishga  mo`ljallangan","num" :2 ,"isCorrect": false},
+            {"variant":"hisob-kitob  ishlarini bajarishga  mo`ljallangan","num" :3 ,"isCorrect": false},
+            {"variant":"matrisalar bilan ishlashga  mo`ljallangan","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : "Dasturlar paketi – ",
+        "variantlar":[
+            {"variant":"bir maqsadga yo`naltirilgan bir nеchta dasturlar to`plamini anglatadi","num" :1 ,"isCorrect": true},
+            {"variant":"dasturlar ketma-ketligini anglatadi","num" :2 ,"isCorrect": false},
+            {"variant":"dasturlash tilida yoki ob`ektli kodda yozilgan algoritmni anglatadi","num" :3 ,"isCorrect": false},
+            {"variant":"muhandislik-masalalarini yechishga  mo`ljallangan dasturlarni anglatadi","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : "Dastur–",
+        "variantlar":[
+            {"variant":"kompyuterda ishlatishga tayyor, dasturlash tilida yoki ob`ektli kodda yozilgan algoritm","num" :1 ,"isCorrect": true},
+            {"variant":"algoritmlar majmuasi","num" :2 ,"isCorrect": false},
+            {"variant":"buyruqlar ketma-ketligi","num" :3 ,"isCorrect": false},
+            {"variant":"dasturlash tilida tuzilgan blok-sxema","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : "Kompyutеr algеbrasining nisbatan imkoniyatli pakеtlari bu – ",
+        "variantlar":[
+            {"variant":"Mathematica, Maple, Matlab, MathCAD","num" :1 ,"isCorrect": true},
+            {"variant":"matematik  dasturlar paketidan iborat","num" :2 ,"isCorrect": false},
+            {"variant":"dasturlar to`plamini anglatadi","num" :3 ,"isCorrect": false},
+            {"variant":"amaliy dasturlar paketi","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : "MathCADda matеmatik ifodalarni kiritishda asosiy vazifani",
+        "variantlar":[
+            {"variant":"kursor yordamida amalga oshiriladi","num" :1 ,"isCorrect": true},
+            {"variant":"sichqoncha yordamida amalga oshiriladi","num" :2 ,"isCorrect": false},
+            {"variant":"klaviatura yordamida amalga oshiriladi","num" :3 ,"isCorrect": false},
+            {"variant":"hamma javoblar to`g`ri","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : "Dasturlar paketi» tushunchasi",
+        "variantlar":[
+            {"variant":"bir maqsadga yo`naltirilgan bir nеchta dasturlar to`plamini anglatadi","num" :1 ,"isCorrect": true},
+            {"variant":"amaliy dasturlar paketi ma`nosini anglatadi","num" :2 ,"isCorrect": false},
+            {"variant":"dasturlar paketidan foydalanisahni anglatadi","num" :3 ,"isCorrect": false},
+            {"variant":"dastur tushunchasini bildiradi","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : "Eng yaxshi dasturlar paketi odatda",
+        "variantlar":[
+            {"variant":"o`z muhitidan «chiqmas»dan barcha zaruriy ishlarni, yoki ishlarning salmoqli   qismini bajarish imkoniyatini bеradi","num" :1 ,"isCorrect": true},
+            {"variant":"dasturlar to`plamini anglatadi","num" :2 ,"isCorrect": false},
+            {"variant":"amaliy dasturlar paketidan iborat","num" :3 ,"isCorrect": false},
+            {"variant":"matematik  dasturlar paketidan iborat","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : "Har qanday  amaliy masala:",
+        "variantlar":[
+            {"variant":"o`zining qandaydir ko`rinishdagi matеmatik modеliga ega","num" :1 ,"isCorrect": true},
+            {"variant":"o`z  yechimiga ega","num" :2 ,"isCorrect": false},
+            {"variant":"matematik yollar orqali ifodalanadi","num" :3 ,"isCorrect": false},
+            {"variant":"geometrik modеliga ega","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : "Kompyuter grafikasi qanday turlarga bo’linadi? ",
+        "variantlar":[
+            {"variant":"Rastrli, vektorli va fraktal grafika","num" :1 ,"isCorrect": true},
+            {"variant":"Vektorli va frontal grafika","num" :2 ,"isCorrect": false},
+            {"variant":"Tarmoqli va relyatsion grafika","num" :3 ,"isCorrect": false},
+            {"variant":"Rastrli va fraktal grafika","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : "Adobe Photoshop dasturi nima uchun mo’ljallangan?",
+        "variantlar":[
+            {"variant":"Foto tasvirlarni qayta ishlaydigan dastur","num" :1 ,"isCorrect": true},
+            {"variant":"Matnli ma’lumotlarni qayta ishlaydigan dastur","num" :2 ,"isCorrect": false},
+            {"variant":"Jadvalli ma’lumotlarni qayta ishlaydigan dastur","num" :3 ,"isCorrect": false},
+            {"variant":"Internet xizmatini ko’rsatuvchi dastur","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : "Adobe Photoshop dasturida grafikli tasvirlar formatini ko’rsating?",
+        "variantlar":[
+            {"variant":"bmp, tiff, jpeg, gif va hokazo","num" :1 ,"isCorrect": true},
+            {"variant":"exe, bat, com va hokazo","num" :2 ,"isCorrect": false},
+            {"variant":"xls, doc, bmp, gif va hokazo","num" :3 ,"isCorrect": false},
+            {"variant":"bmp, tiff, exe, bat, com va hokazo","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : "Kompyuterlarning dasturiy ta’minoti qanday dasturlar majmuasidan tashkil topodi?",
+        "variantlar":[
+            {"variant":"Tizimli dasturlar,amaliy dasturlar, utilitalar,translyatorlardan","num" :1 ,"isCorrect": true},
+            {"variant":"Tizimli dasturlar, utilitalardan","num" :2 ,"isCorrect": false},
+            {"variant":"Utilitalar,translyatorlardan","num" :3 ,"isCorrect": false},
+            {"variant":"Tizimli dasturlar, translyatorlardan","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : "Amaliy dasturlar joylashgan qatorni ko’rsating?",
+        "variantlar":[
+            {"variant":"MS Word,MS Excel,MS Power Point","num" :1 ,"isCorrect": true},
+            {"variant":"Microsoft Word, WinRar, DrWeb","num" :2 ,"isCorrect": false},
+            {"variant":"NC,VC,Windows","num" :3 ,"isCorrect": false},
+            {"variant":"Widows,MS DOS,NC","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : "Kompyuter elektr tarmog’iga ulangach,dastlab qaysi dasturlar ishga tushadi?",
+        "variantlar":[
+            {"variant":"BIOS va Operatsion tizim","num" :1 ,"isCorrect": true},
+            {"variant":"BIOS va Antiviruslar","num" :2 ,"isCorrect": false},
+            {"variant":"BIOS va Amaliy dasturlar","num" :3 ,"isCorrect": false},
+            {"variant":"BIOS va fayl- menejerlar","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : "Arxivlangan fayl deganda nima tushiniladi?",
+        "variantlar":[
+            {"variant":"Arxivator dasturi yordamida maxsus formatga o'tkazilib, siqilgan fayl ","num" :1 ,"isCorrect": true},
+            {"variant":"Nusxalashdan himoyalangan fayl","num" :2 ,"isCorrect": false},
+            {"variant":"Nushalashdan himoyalanmagan fayl","num" :3 ,"isCorrect": false},
+            {"variant":"Unday fayl yo'q","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : "Talaba so’zida necha bayt axborot bor",
+        "variantlar":[
+            {"variant":"6","num" :1 ,"isCorrect": true},
+            {"variant":"12","num" :2 ,"isCorrect": false},
+            {"variant":"10","num" :3 ,"isCorrect": false},
+            {"variant":"18","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : "Quyidagilardan qaysi biri kompyuter qurilmalari va foydalanuvchi o'rtasidagi mulogatni o'rnatadi?",
+        "variantlar":[
+            {"variant":"Operatsion tizimlar","num" :1 ,"isCorrect": true},
+            {"variant":"Drayverlar","num" :2 ,"isCorrect": false},
+            {"variant":"Utilitalar","num" :3 ,"isCorrect": false},
+            {"variant":"Fayl-menejerlari","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : "Kompilyatorlar qanday vazifani bajaradi?",
+        "variantlar":[
+            {"variant":"Dastur kodini to'liq mashina tiliga o'giradi","num" :1 ,"isCorrect": true},
+            {"variant":"Dastur kodini so'zma-so'z mashina tiliga o'giradi","num" :2 ,"isCorrect": false},
+            {"variant":"Dastur kodin iikkilik va o'n oltilik kodlarga o'giradi","num" :3 ,"isCorrect": false},
+            {"variant":"Dastur kodini belgilar yordamida tarjima qiladi","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : "Windows so'zi qanday ma'noni bildiradi?",
+        "variantlar":[
+            {"variant":"Oynalar","num" :1 ,"isCorrect": true},
+            {"variant":"Sistema","num" :2 ,"isCorrect": false},
+            {"variant":"Dastur","num" :3 ,"isCorrect": false},
+            {"variant":"Kompyuter","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : "Windows dasturidan chiqish va kompyuternii o`chirish usulli",
+        "variantlar":[
+            {"variant":"Pusk - Zavershenie raboti - Viklyuchit kompyuter","num" :1 ,"isCorrect": true},
+            {"variant":"Otkrit - Zakrit","num" :2 ,"isCorrect": false},
+            {"variant":"Pusk - Udalit - Dobavit","num" :3 ,"isCorrect": false},
+            {"variant":"Pusk - P","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : "WWW asoschisi kim?",
+        "variantlar":[
+            {"variant":"Tim Bernest Li","num" :1 ,"isCorrect": true},
+            {"variant":"Tommy","num" :2 ,"isCorrect": false},
+            {"variant":"Bilgeyts","num" :3 ,"isCorrect": false},
+            {"variant":"Xalqaro tashkilot yoki kompaniya ","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : "Internetda eng ko’p qo’llaniladigan xizmat qaysi?",
+        "variantlar":[
+            {"variant":"W W W","num" :1 ,"isCorrect": true},
+            {"variant":"E-mail","num" :2 ,"isCorrect": false},
+            {"variant":"Usenet","num" :3 ,"isCorrect": false},
+            {"variant":"FTP","num" :4 ,"isCorrect": false}
+        ]
+    }
+]

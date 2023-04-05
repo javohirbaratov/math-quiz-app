@@ -1,0 +1,20 @@
+.theory-content{
+    width: 100%;
+    flex-direction: column;
+}
+.theory-content h1{
+    font-size: var(--eng-katta-size);
+}
+.table{
+    width: 400px;
+    flex-direction: column;
+}
+.theory-content a{
+    display: flex;
+    align-items: center;
+    height: 60px;
+    margin: 10px;
+    padding-left: 10px;
+    border: 1px solid black;
+    border-radius: var(--border-radius);
+}
