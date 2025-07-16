@@ -16,7 +16,7 @@ const Tests = () => {
     const [click, setClick] = useState(null);
     const {degree} = useParams();
     // const url = parm.degree;
-    const [daraja, setDaraga] = useState(degree);
+    const [daraja] = useState(degree);
     useEffect(() => {
         http.post(
             '/getQuest.php',
@@ -35,7 +35,7 @@ const Tests = () => {
     useEffect(() => {
         if(quest.length>0)
             setVariant(shuffle(quest[number].variants));
-    },[quest]);
+    },[number, quest]);
 
     const is = (e) =>{
         setClick(e);

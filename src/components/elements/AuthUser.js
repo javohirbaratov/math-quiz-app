@@ -36,7 +36,7 @@ export default function AuthUser(){
     }
 
     const http = axios.create({
-        baseURL:"https://rangelands.uz/baratov/api/",
+        baseURL:"https://flaedu.uz/baratov/api/",
         maxBodyLength: Infinity,
         headers: {
             'Content-Type': 'application/json'

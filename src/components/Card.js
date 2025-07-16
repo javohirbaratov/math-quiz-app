@@ -10,7 +10,7 @@ import { FaArrowAltCircleLeft } from 'react-icons/fa';
 
 const Tests = () => {
 
-    const {http,getToken,setToken,navigate} = AuthUser();
+    const {http,getToken,navigate} = AuthUser();
     const [data, setData] = useState([]);
     const [clickTwo, setClickTwo] = useState(null);
     const [clickThree, setClickThree] = useState(null);
