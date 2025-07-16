@@ -9,7 +9,7 @@ const Start = () => {
         <div className='container flex center border'>
             <div className='start box'>
                 <div className='img_box'>
-                    <img src={begin}/>
+                    <img alt='' src={begin}/>
                 </div>
                 <div className='content flex'>
                     <p>Biz bilan bilimingni <span>mustahkamla</span></p>

@@ -1,7 +1,6 @@
-import React,{useRef,useEffect} from 'react';
+import { useEffect, useRef } from 'react';
 import { Link } from "react-router-dom";
 import AuthUser from './elements/AuthUser';
-import axios from "axios";
 
 const Login = () => {
 
@@ -21,7 +20,7 @@ const Login = () => {
                 {login:login.current.value,password:password.current.value}
             )
         ).then((res)=>{
-            if(res.data.result_code==1)
+            if(res.data.result_code===1)
                 setToken(res.data.token);
             else
                 Swal("error","Login yoki parol xato","error");

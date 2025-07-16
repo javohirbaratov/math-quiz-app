@@ -1,7 +1,6 @@
-import React,{useEffect} from "react";
-import { useParams,Link} from 'react-router-dom';
-import Nav from "./elements/Nav";
 import { FaArrowAltCircleLeft } from 'react-icons/fa';
+import { Link, useParams } from 'react-router-dom';
+import Nav from "./elements/Nav";
 
 const WiewPdf = () => {
     // useEffect(() => {
@@ -9,14 +8,14 @@ const WiewPdf = () => {
         const url = parm.file;
         console.log(url);
         var arr = [];
-            if(url == "maruza"){
+            if(url === "maruza"){
                 for(var i=0; i<3;i++){
                     arr.push(i+1);
                 }
             }
-            if(url=="namuna"){
-                for(var i=0; i<12;i++){
-                    arr.push(i+1);
+            if(url==="namuna"){
+                for(var j=0; j<12;j++){
+                    arr.push(j+1);
                 }
             }
         
@@ -33,11 +32,13 @@ const WiewPdf = () => {
             {
                 <>
                     {arr.map((p)=>
-                        <img key={p} className="pdf-view" src={require("./"+url+"/" + p +".jpg")}/>
+                        <img alt='' key={p} className="pdf-view" src={require("./"+url+"/" + p +".jpg")}/>
                     )}
                 </>
             }
-            <h1></h1>
+            <h1>
+                
+            </h1>
             <Nav/>
         </div>
     );

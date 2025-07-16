@@ -1,8 +1,8 @@
-import React,{useState,useEffect,useRef} from 'react';
+import { useEffect, useRef, useState } from 'react';
+import { FaArrowAltCircleLeft } from 'react-icons/fa';
 import { Link } from 'react-router-dom';
 import AuthUser from './elements/AuthUser';
 import Nav from './elements/Nav.js';
-import { FaArrowAltCircleLeft } from 'react-icons/fa';
 
 const Settings = () => {
     const {http,getToken,setToken,Swal} = AuthUser();
@@ -18,12 +18,12 @@ const Settings = () => {
         http.post('/getUser.php',{token:getToken()}).then((res)=>{
             setUserData(res.data.token);
         })
-    }, []);
+    }, [getToken, http]);
 
     const handleUpdate = (e) => {
         setUserData({...userData, [e.target.name]: e.target.value});
         
-        if(e.target.name=="login"){
+        if(e.target.name==="login"){
             if(e.target.value.length<4){
                 setLoginText([
                     {
@@ -41,7 +41,7 @@ const Settings = () => {
             }
         }
 
-        if(e.target.name=="parol"){
+        if(e.target.name==="parol"){
             if(e.target.value.length<8){
                 setPasswordText([
                     {
@@ -59,15 +59,15 @@ const Settings = () => {
             }
         }
 
-        if(e.target.name=="password"){
-            if(password.current.value==passwordOne.current.value){
+        if(e.target.name==="password"){
+            if(password.current.value===passwordOne.current.value){
                 setText("Parol to'gri");
                 setStyle("green-text");
             }else{
                 setText("Yuqoridagi parolni takroran kiriting");
                 setStyle("red-text");
             }
-            setUserData({...userData, ['parol']: e.target.value});
+            setUserData({...userData, 'parol': e.target.value});
         }
     }
 
@@ -75,14 +75,14 @@ const Settings = () => {
         
         e.preventDefault();
         
-        if(password.current.value!=passwordOne.current.value){
+        if(password.current.value!==passwordOne.current.value){
             Swal("Error","Parol mos emas","");
         }else{
             
             if(password.current.value.length<8 || passwordOne.current.value.length<8){
-                setUserData({...userData, ['parol']: -1});
+                setUserData({...userData, 'parol': -1});
                 http.post('/updateUserData.php',{userData}).then((res)=>{
-                    if(res.data.result_code==1){
+                    if(res.data.result_code===1){
                         setToken(res.data.token);
                         Swal("Bajarildi","Eski parol saqlanib qoldi va ma'lumotlar tahrirlandi","success");
                     }
@@ -91,7 +91,7 @@ const Settings = () => {
                 })
             }else{
                 http.post('/updateUserData.php',{userData}).then((res)=>{
-                    if(res.data.result_code==1){
+                    if(res.data.result_code===1){
                         setToken(res.data.token);
                         alert("Ma'lumotlar tahrirlandi");
                     }

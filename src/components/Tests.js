@@ -26,7 +26,7 @@ const Tests = () => {
         ).then((res)=>{
            setData(res.data.data);
         })
-    }, []);
+    }, [daraja, getToken, http]);
 
     useEffect(() => {
         setQuest(shuffle(data));

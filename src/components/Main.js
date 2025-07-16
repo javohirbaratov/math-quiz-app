@@ -1,12 +1,11 @@
-import React,{useEffect} from 'react';
+import { Link } from 'react-router-dom';
+import test from "../img/2.png";
+import mult from "../img/3.png";
 import mat from "../img/Matematika.png";
 import back from "../img/back.png";
 import naz from "../img/nazariya.png";
-import test from "../img/2.png";
-import mult from "../img/3.png";
-import Nav from './elements/Nav';
-import { Link } from 'react-router-dom';
 import AuthUser from './elements/AuthUser';
+import Nav from './elements/Nav';
 
 const Main = () => {
     const {Swal} = AuthUser();
@@ -18,7 +17,7 @@ const Main = () => {
                 <div className='main-content'>
                     <h1>Asosiy</h1>
                     <div className='slider box-shadow flex center'>
-                        <img src={mat}></img>
+                        <img alt='' src={mat}></img>
                     </div>
                     <div className='menus'>
                         <h1>Menular</h1>
@@ -28,7 +27,7 @@ const Main = () => {
                                     <Link to="/card">
                                         <div className='card one flex border'>
                                             <div className='img-box'>
-                                                <img src={test}/>
+                                                <img alt='' src={test}/>
                                             </div>
                                             <div className='tex-box'>
                                                 <p>Testlar</p>
@@ -38,7 +37,7 @@ const Main = () => {
                                     <Link to={"/view/namuna"}>
                                         <div className='card two'>
                                             <div className='img-box'>
-                                                <img src={back}/>
+                                                <img alt='' src={back}/>
                                             </div>
                                             <div className='tex-box'>
                                                 <p>Namunalar</p>
@@ -51,7 +50,7 @@ const Main = () => {
                                 <Link to={"/view/maruza"}>
                                     <div className='card two'>
                                         <div className='img-box'>
-                                            <img src={naz}/>
+                                            <img alt='' src={naz}/>
                                         </div>
                                         <div className='tex-box'>
                                             <p>Nazariy ma'lumotlar</p>
@@ -61,7 +60,7 @@ const Main = () => {
                                 <div onClick={() => Swal("Diqqat","Ma'lumotlar yuklanmoqda","")}>
                                     <div className='card one'>
                                         <div className='img-box'>
-                                            <img src={mult}/>
+                                            <img alt='' src={mult}/>
                                         </div>
                                         <div className='tex-box'>
                                             <p>Multemedia</p>

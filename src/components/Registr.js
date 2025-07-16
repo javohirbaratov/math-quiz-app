@@ -4,7 +4,7 @@ import AuthUser from './elements/AuthUser';
 
 const Registr = () => {
     const navigate = useNavigate();
-    const {http,setToken} = AuthUser();
+    const {http} = AuthUser();
     const [text, setText] = useState("");
     const [loginText, setLoginText] = useState([]);
     const [passwordText, setPasswordText] = useState([]);
@@ -51,7 +51,7 @@ const Registr = () => {
         }
     }
     const handleChange = () => {
-        if(password.current.value==passwordOne.current.value){
+        if(password.current.value===passwordOne.current.value){
             setText("Parol to'gri");
             setStyle("green-text");
         }else{
@@ -63,7 +63,7 @@ const Registr = () => {
         e.preventDefault();
         http.post('/registrUser.php',{login:login.current.value,password:password.current.value,name:name.current.value}).then((res)=>{
             console.log(res);
-            if(res.data.result_code==1)
+            if(res.data.result_code===1)
                 navigate("/login");
             else
                 alert("Login yoki parol xato");
