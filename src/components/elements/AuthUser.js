@@ -16,7 +16,7 @@ export default function AuthUser(){
     }
     
     const Swal = (title,text,icon) => {
-        if(icon==""){
+        if(icon===""){
             return swal(title, text);
         }
         return swal(title, text, icon);

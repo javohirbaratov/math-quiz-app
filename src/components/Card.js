@@ -20,12 +20,14 @@ const Tests = () => {
             setData(res.data.token);
             console.log(getToken());
         })
-    }, []);
+    }, [getToken, http]);
     
     useEffect(() => {
+        // eslint-disable-next-line eqeqeq
         if(data.gorge == 2){
             setClickTwo(2);
         }
+        // eslint-disable-next-line eqeqeq
         if(data.gorge == 3 || data.gorge == 4){
             setClickTwo(2);
             setClickThree(3)
@@ -49,7 +51,7 @@ const Tests = () => {
                 <div className='card-box flex center'>
                     <div className='test-card one'>
                         <div className='card-img-box border'>
-                            <img src={one}/>
+                            <img alt="description" src={one}/>
                         </div>
                         <div className='card-title'>
                             <p>A card</p>
@@ -58,7 +60,7 @@ const Tests = () => {
                     </div>
                     <div className='test-card two'>
                         <div className='card-img-box border'>
-                            <img src={two}/>
+                            <img alt="description" src={two}/>
                         </div>
                         <div className='card-title'>
                             <p>B card</p>
@@ -76,7 +78,7 @@ const Tests = () => {
                     </div>
                     <div className='test-card three'>
                         <div className='card-img-box border'>
-                            <img src={three}/>
+                            <img alt="description" src={three}/>
                         </div>
                         <div className='card-title'>
                             <p>C card</p>

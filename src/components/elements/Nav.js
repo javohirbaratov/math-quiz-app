@@ -6,12 +6,12 @@ const Nav = (props) => {
     const {logOut} = AuthUser();
     const navigate = useNavigate();
     
-    const [menu, setMenu] = useState([
+    const [menu] = useState([
         {name : "Chiqish", url : ""},
         {name : "Asosiy", url : "/main"},
         {name : "Sozlamalar", url : "/settings"}
     ]);
-    const [active, setActive] = useState(1);
+
 
     const activ = (e) => {
         switch (e) {
@@ -36,7 +36,7 @@ const Nav = (props) => {
                 {
                     menu.map((menu, i)=> (
                         <li key={i} onClick={() => activ(i)}>
-                            <Link className={` ${props.active==i? "active" : ""}`}>
+                            <Link className={` ${props.active===i? "active" : ""}`}>
                                 {menu.name}
                             </Link>
                         </li>
