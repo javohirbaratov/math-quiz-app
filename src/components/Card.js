@@ -20,15 +20,16 @@ const Tests = () => {
             setData(res.data.token);
             console.log(getToken());
         })
-    }, [getToken, http]);
+    // eslint-disable-next-line eqeqeq
+    }, []);
     
     useEffect(() => {
-        // eslint-disable-next-line eqeqeq
-        if(data.gorge == 2){
+        
+        if(data.gorge === 2){
             setClickTwo(2);
         }
-        // eslint-disable-next-line eqeqeq
-        if(data.gorge == 3 || data.gorge == 4){
+        
+        if(data.gorge === 3 || data.gorge === 4){
             setClickTwo(2);
             setClickThree(3)
         }
