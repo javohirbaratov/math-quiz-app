@@ -20,7 +20,7 @@ const Tests = () => {
             setData(res.data.token);
             console.log(getToken());
         })
-    // eslint-disable-next-line eqeqeq
+    // eslint-disable-next-line react-hooks/exhaustive-deps
     }, []);
     
     useEffect(() => {
