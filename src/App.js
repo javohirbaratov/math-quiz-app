@@ -8,6 +8,7 @@ import Theory from "./components/Theory.js";
 import Wiew from "./components/Wiew.js";
 import Tests from "./components/Tests.js";
 import Card from "./components/Card.js";
+import Media from "./components/Media.js";
 function App() {
   return (
     <div className="App">
@@ -22,6 +23,7 @@ function App() {
           <Route path="/card" element={<Card/>}/>
           <Route path="/tests/:degree" element={<Tests/>}/>
           <Route path="/view/:file" element={<Wiew/>} />
+          <Route path="/media" element={<Media/>}/>
 
         </Routes>
       </BrowserRouter>

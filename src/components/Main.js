@@ -4,11 +4,9 @@ import mult from "../img/3.png";
 import mat from "../img/Matematika.png";
 import back from "../img/back.png";
 import naz from "../img/nazariya.png";
-import AuthUser from './elements/AuthUser';
 import Nav from './elements/Nav';
 
 const Main = () => {
-    const {Swal} = AuthUser();
 
     return (
         <section className='main-section'>
@@ -57,15 +55,17 @@ const Main = () => {
                                         </div>
                                     </div>
                                 </Link>
-                                <div onClick={() => Swal("Diqqat","Ma'lumotlar yuklanmoqda","")}>
-                                    <div className='card one'>
-                                        <div className='img-box'>
-                                            <img alt='' src={mult}/>
+                                <div>
+                                    <Link to={"/media"}>
+                                        <div className='card one'>
+                                            <div className='img-box'>
+                                                <img alt='' src={mult}/>
+                                            </div>
+                                            <div className='tex-box'>
+                                                <p>Multemedia</p>
+                                            </div>
                                         </div>
-                                        <div className='tex-box'>
-                                            <p>Multemedia</p>
-                                        </div>
-                                    </div>
+                                    </Link>
                                 </div>
                             </div>
                         </div>
