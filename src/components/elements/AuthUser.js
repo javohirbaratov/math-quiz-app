@@ -36,7 +36,7 @@ export default function AuthUser(){
     }
 
     const http = axios.create({
-        baseURL:"https://samarcande-travel.uz/baratov/api/",
+        baseURL:"https://sampolitex-n1.uz/parametr/api/",
         maxBodyLength: Infinity,
         headers: {
             'Content-Type': 'application/json'
