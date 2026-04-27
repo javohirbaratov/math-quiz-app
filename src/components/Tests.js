@@ -17,6 +17,7 @@ const Tests = () => {
     const [userData, setUserData] = useState();
     const [quest, setQuest] = useState([]);
     const [data, setData] = useState([]);
+    const [isLoaded, setIsLoaded] = useState(false);
     const [number, setNumber] = useState(0);
     const [varinat, setVariant] = useState(0);
     const [correct, setCorrect] = useState(0);
@@ -39,7 +40,15 @@ const Tests = () => {
                 {token:getToken(), degree: daraja}
             )
         ).then((res)=>{
-           setData(res.data.data);
+           if (res.data && res.data.data) {
+               setData(res.data.data);
+           } else {
+               setData([]);
+           }
+           setIsLoaded(true);
+        }).catch((err) => {
+           console.log(err);
+           setIsLoaded(true);
         });
         
     // eslint-disable-next-line react-hooks/exhaustive-deps    
@@ -194,7 +203,11 @@ const Tests = () => {
                                                 <button disabled={!click} onClick={isCorrect} className='btn-send box-shadow'>Yuborish</button>
                                             </div>
                                         ):(
-                                            <>Testlar yuklanmoqda...</>
+                                            isLoaded ? (
+                                                <h3 style={{padding: '20px', textAlign: 'center'}}>Bu bosqichda savollar yo'q</h3>
+                                            ) : (
+                                                <>Testlar yuklanmoqda...</>
+                                            )
                                         )
                                     }
                                 </div>
